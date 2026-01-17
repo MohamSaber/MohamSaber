@@ -1,10 +1,8 @@
 <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
+</p>
 
 ### 🌌 Exploring the Universe of Data & Intelligence
 **Engineering Student @ Egypt | Machine Learning & Deep Learning Engineer**
@@ -40,26 +38,24 @@
 ## 🚀 Projects Gallery
 
 ### 🤖 Machine Learning & Data Science
-* [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) - linear regression
-* [Chance of Admit](https://github.com/MohamSaber/myML_own_projects/tree/main/2-chance%20of%20admit%20(RF)) -random forest
-* [Support Victor Machine projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) - svm
-  
+* [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) — Linear Regression analysis.
+* [Chance of Admit](https://github.com/MohamSaber/myML_own_projects/tree/main/2-chance%20of%20admit%20(RF)) — Random Forest model.
+* [Support Vector Machine Projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) — Collection of SVM implementations.
 
 ### 👁️ Computer Vision (CV)
-
-* [Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) - YOLO
-* [GridCam algorithm](https://github.com/MohamSaber/myDL_own_projects/tree/main/GridCam) - Gridcam algorithm
-* [Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) - some project on cnn without pretrained models .
-* [Chest X-ray](https://github.com/MohamSaber/myDL_own_projects/blob/main/chestxray-tl.ipynb) - chex xray cv 
-  
+* [Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) — Real-time detection using YOLO.
+* [GridCam Algorithm](https://github.com/MohamSaber/myDL_own_projects/tree/main/GridCam) — Interpretability in Deep Learning.
+* [Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) — Custom CNN architectures.
+* [Chest X-ray Analysis](https://github.com/MohamSaber/myDL_own_projects/blob/main/chestxray-tl.ipynb) — Transfer Learning for medical imaging.
+* [NTI Training Portfolio](https://github.com/MohamSaber/CV_NTI_120hrs) — Extensive 120-hour Computer Vision specialization.
 
 ### 📝 Natural Language Processing (NLP)
-* INPROGRESS 🚨⏳ 
+* 🚨 IN PROGRESS — Working on Transformer-based models.
 
 ---
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MoSaber/MoSaber/main/image_d4afa9.png" width="100%" />
+<img src="https://raw.githubusercontent.com/MohamSaber/DEPI_Studying/main/Gemini_Generated_Image_7clep07clep07cle.png" width="100%" />
 
 </div>
