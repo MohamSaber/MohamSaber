@@ -18,7 +18,7 @@
 <table border="0">
   <tr>
     <td width="60%">
-      <h1>🚀 About Me</h1>
+      <h1>🚩 About Me</h1>
       <p>I am a <b>Machine Learning Engineer</b> who loves building intelligent systems that learn and adapt. My goal is to bridge the gap between complex mathematical theories and practical, real-world applications.</p>
       <p><b>Current Focus:</b> Computer Vision & Large Language Models (LLMs).</p>
     </td>
@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20data%20we%20trust,%20everything%20else%20we%20test." />
+  <img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSnUVjoc4Y98GV8S72JI3abW4yRTXdXOQJGoMb385bAOKY4EP1EmrPLRqqDAScpbjSbjl6wuhKnZiJzNYB196H7b23JCY2DJvBTlhWFvnrWAKkA_UXU7pbYJvqV5o3M_4RbchvXS2CuF0sBHjrkdp3qoECn5zdvSkFc_AQA_nEcANxoWPA=s1024-rj" />
 </p>
 
 </div>
