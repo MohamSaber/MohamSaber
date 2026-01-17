@@ -1,8 +1,6 @@
-<div align="center">
-
-<div align="center">
-  <img src="https://github.com/MohamSaber/MohamSaber/blob/main/mohamed%20Saber%20.png" width="100%" />
-</div> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=distort&color=00b4d8&height=200&text=MOHAMED%20SABER&fontSize=80&fontColor=fff&stroke=00b4d8&section=header&animation=fadeIn" width="100%" />
+</p>
 
 ### 🌌 Exploring the Universe of Data & Intelligence
 **Engineering Student @ Egypt | Machine Learning & Deep Learning Engineer**
