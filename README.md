@@ -1,3 +1,4 @@
+<div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/render?type=distort&color=00b4d8&height=200&text=MOHAMED%20SABER&fontSize=80&fontColor=fff&stroke=00b4d8&section=header&animation=fadeIn" width="100%" />
 </p>
