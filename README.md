@@ -1,59 +1,50 @@
-<h2 align="left">Hi 👋! My name is Mohamed Saber and I'm an Engineering Student, from Egypt </h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoSaber&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSaber&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+# Hi 👋, I'm Mohamed Saber
+### A Passionate Machine Learning Engineer from Egypt
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN0cHMwcjAxdm9xcDdsemdwanVhNjI3ZzNhbnk0bmlxaXlrMjNuYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"  />
-
-###
-
-<div align="left">
- 
-
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30" alt="sklearn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow"/>
-  <img wdth="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="30" alt="cpp logo" />
-  <img width="12" / >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-line-wordmark.svg" height="30" alt="pandas log" />    
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="30" alt="java logo" />
-          
-</div>
-
-###
-
-<div align="left">
-
-<a href="https://www.kaggle.com/m0hamedsaber" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="kaggle logo" />
-</a>
-
-<a href="mailto:mmohamedm891@gmail.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"
-   title="Email: mmohamedm891@gmail.com"/>
-</a>
+![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMoSaber&count_bg=%2320BEFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false)
 
 <a href="https://www.linkedin.com/in/m0saber/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/m0hamedsaber" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</a>
+<a href="mailto:mmohamedm891@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
+<hr />
+
+## 📖 Summary
+I am a dedicated Machine Learning Engineer with a strong foundation in data analysis and predictive modeling. 
+I love turning raw data into meaningful insights.
+
+<hr />
+
+## 🛠 Languages, Frameworks, and Tools
+<br/>
+
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,sklearn,cpp,pandas,java,git,github,mysql,fastapi&theme=dark)](https://skillicons.dev)
+
+<hr />
+
+## 💡 My Projects
 </div>
 
+### 🤖 Machine Learning Projects
+* [Insurance Claim Prediction](رابط_المشروع_هنا) - Brief description of the project.
+* [Big Mart Sales Prediction](رابط_المشروع_هنا) - Brief description of the project.
 
-###
+### 🧠 Deep Learning Projects
+* [Heart Failure Detection](رابط_المشروع_هنا) - Using Neural Networks to predict heart failure.
+* [Object Detection Project](رابط_المشروع_هنا) - Using YOLOv8 for real-time detection.
 
+<hr />
 
-
-
-###
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoSaber&show_icons=true&theme=dracula&count_private=true" alt="MoSaber's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSaber&layout=compact&theme=dracula" alt="Top Languages" />
+</div>
