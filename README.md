@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1f8UwrMKZljsCWNffBOqmGoUjfAxNuR7v/view?usp=drive_link" />
+  <img src="https://drive.google.com/file/d/1f8UwrMKZljsCWNffBOqmGoUjfAxNuR7v/view?usp=sharing" />
 </p>
 
 </div>
