@@ -2,10 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
 
-<br/>
-
 ### 🌌 Exploring the Universe of Data & Intelligence
-**Engineering Student @ Egypt | ML & Deep Learning Enthusiast**
+**Engineering Student @ Egypt | Machine Learning & Deep Learning Engineer**
 
 <br/>
 
@@ -19,8 +17,8 @@
   <tr>
     <td width="60%">
       <h1>🚩 About Me</h1>
-      <p>I am a <b>Machine Learning Engineer</b> who loves building intelligent systems that learn and adapt. My goal is to bridge the gap between complex mathematical theories and practical, real-world applications.</p>
-      <p><b>Current Focus:</b> Computer Vision & Large Language Models (LLMs).</p>
+      <p>I am a <b>Machine Learning Engineer</b> dedicated to building intelligent systems that bridge the gap between complex mathematics and real-world impact.</p>
+      <p><b>Specializations:</b> Computer Vision (CV), NLP, and Predictive Analytics.</p>
     </td>
     <td width="40%">
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6ZnRwaHNoM3R6eGZ5Ym9oZHBqZ3Vpbm93eG05ZzR3ZHB6Ynl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
@@ -30,23 +28,28 @@
 
 ---
 
-<h2>⚡ Tech Stack</h2>
-
+## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,git,mysql,cpp,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
-<h2>⭐ Featured Research & Projects</h2>
+## 🚀 Projects Gallery
 
-| **Deep Learning** | **Machine Learning** |
-| :--- | :--- |
-| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=MoSaber&repo=Your_Best_DL_Repo&theme=tokyonight" />](https://github.com/MoSaber/Your_Best_DL_Repo) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=MoSaber&repo=Your_Best_ML_Repo&theme=tokyonight" />](https://github.com/MoSaber/Your_Best_ML_Repo) |
+### 🤖 Machine Learning & Data Science
+* [Insurance Claim Prediction](https://github.com/MoSaber/Your-Repo-Link) - Predictive modeling using ensemble methods.
+* [Big Mart Sales Prediction](https://github.com/MoSaber/Your-Repo-Link) - Sales forecasting and EDA.
+
+### 👁️ Computer Vision (CV)
+* [Facial Expression Recognition](https://github.com/MoSaber/Your-Repo-Link) - Real-time emotion detection using CNNs.
+* [Object Detection YOLOv8](https://github.com/MoSaber/Your-Repo-Link) - Custom trained model for object localization.
+
+### 📝 Natural Language Processing (NLP)
+* [Sentiment Analysis](https://github.com/MoSaber/Your-Repo-Link) - Text classification using Transformers.
 
 ---
 
 <br/>
-<br/>
 
-![Never Give Up](https://github.com/MohamSaber/DEPI_Studying/blob/main/Gemini_Generated_Image_7clep07clep07cle.png)
+<img src="https://raw.githubusercontent.com/MoSaber/MoSaber/main/image_d4afa9.png" width="100%" />
 
 </div>
