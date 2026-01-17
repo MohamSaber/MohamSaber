@@ -1,58 +1,64 @@
 <div align="center">
-  
-# 🧠 Mohamed Saber | Machine Learning Engineer
-### "Transforming Data into Intelligence, One Epoch at a Time"
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Welcome%20to%20my%20Workspace&fontSize=50&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m0saber/)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/m0hamedsaber)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mmohamedm891@gmail.com)
+<br/>
+
+### 🌌 Exploring the Universe of Data & Intelligence
+**Engineering Student @ Egypt | ML & Deep Learning Enthusiast**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/m0saber/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" /></a> 
+<a href="https://www.kaggle.com/m0hamedsaber"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white&style=for-the-badge" /></a>
+<a href="mailto:mmohamedm891@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" /></a>
 
 ---
 
-### 🚀 Mission Statement
-> **`if (data.is_messy()): clean(data)`** > **`elif (pattern.exists()): extract_insights(pattern)`** > **`else: train_model(epochs=100)`** I'm an Engineering student from Egypt, passionate about building robust AI systems. I don't just "run models"; I solve real-world problems using mathematical foundations and clean code.
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h1>🚀 About Me</h1>
+      <p>I am a <b>Machine Learning Engineer</b> who loves building intelligent systems that learn and adapt. My goal is to bridge the gap between complex mathematical theories and practical, real-world applications.</p>
+      <p><b>Current Focus:</b> Computer Vision & Large Language Models (LLMs).</p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJ6ZnRwaHNoM3R6eGZ5Ym9oZHBqZ3Vpbm93eG05ZzR3ZHB6Ynl2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ My Tech Stack (Neural Network)
+<h2>⚡ Tech Stack</h2>
 
-| Category | Tools & Technologies |
+[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,opencv,fastapi,git,mysql,cpp,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+<h2>⭐ Featured Research & Projects</h2>
+
+| **Deep Learning** | **Machine Learning** |
 | :--- | :--- |
-| **Brain (Languages)** | `Python` `C++` `Java` `SQL` |
-| **Vision & Learning** | `TensorFlow` `PyTorch` `Scikit-Learn` `OpenCV` |
-| **Data Backbone** | `Pandas` `NumPy` `Matplotlib` `Seaborn` |
-| **Deployment & Ops** | `Git` `GitHub` `FastAPI` `Docker` (Learning) |
+| [<img src="https://github-readme-stats.vercel.app/api/pin/?username=MoSaber&repo=Your_Best_DL_Repo&theme=tokyonight" />](https://github.com/MoSaber/Your_Best_DL_Repo) | [<img src="https://github-readme-stats.vercel.app/api/pin/?username=MoSaber&repo=Your_Best_ML_Repo&theme=tokyonight" />](https://github.com/MoSaber/Your_Best_ML_Repo) |
 
 ---
 
-### 🏗️ Projects Laboratory
+<h2>📊 Activity Status</h2>
 
-#### 🧪 Experimental ML
-* **[Predictive Analytics Hub]**: A collection of regression and classification models with detailed EDA.
-* **[Credit Scoring System]**: Using clustering and ensemble methods to evaluate financial risk.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoSaber&theme=tokyonight&hide_border=true" width="100%" />
 
-#### 👁️ Computer Vision & DL
-* **[Neural-Sense]**: Deep Learning models for image recognition using custom CNN architectures.
-* **[TimeSeries-Forecaster]**: Predicting market trends using LSTM and Conv1D.
-
----
-
-### 📊 Github "Loss Function" (Activity)
+<br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=MoSaber&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true" alt="MoSaber's Stats" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSaber&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MoSaber&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSaber&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
 
 ---
 
-### ⚡ Fun Facts (Metadata)
-* **Learning Rate:** Constantly decaying but always converging to new skills.
-* **Coffee:** My primary fuel for hyperparameter tuning.
-* **Current State:** `Training on life... 99% complete.`
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it." width="100%" />
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=In%20data%20we%20trust,%20everything%20else%20we%20test." />
+</p>
 
 </div>
