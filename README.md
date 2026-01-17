@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1f8UwrMKZljsCWNffBOqmGoUjfAxNuR7v/view?usp=sharing" />
+  <img src="https://github.com/MohamSaber/DEPI_Studying/blob/main/Gemini_Generated_Image_7clep07clep07cle.png" />
 </p>
 
 </div>
