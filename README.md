@@ -36,15 +36,20 @@
 ## 🚀 Projects Gallery
 
 ### 🤖 Machine Learning & Data Science
-* [Insurance Claim Prediction](https://github.com/MoSaber/Your-Repo-Link) - Predictive modeling using ensemble methods.
-* [Big Mart Sales Prediction](https://github.com/MoSaber/Your-Repo-Link) - Sales forecasting and EDA.
+* [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) -linear regression
+* [Chance of Admit](https://github.com/MohamSaber/myML_own_projects/tree/main/2-chance%20of%20admit%20(RF)) -random forest
+* [Support Victor Machine projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) -svm
+  
 
 ### 👁️ Computer Vision (CV)
-* [Facial Expression Recognition](https://github.com/MoSaber/Your-Repo-Link) - Real-time emotion detection using CNNs.
-* [Object Detection YOLOv8](https://github.com/MoSaber/Your-Repo-Link) - Custom trained model for object localization.
+
+*[Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) -YOLO
+* [GridCam algorithm](https://github.com/MohamSaber/myDL_own_projects/tree/main/GridCam) 
+* [Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) - some project on cnn without pretrained models .
+  
 
 ### 📝 Natural Language Processing (NLP)
-* [Sentiment Analysis](https://github.com/MoSaber/Your-Repo-Link) - Text classification using Transformers.
+* INPROGRESS
 
 ---
 
