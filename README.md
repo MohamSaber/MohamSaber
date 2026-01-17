@@ -1,6 +1,10 @@
 <div align="center">
 
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
+
+</div>
 
 ### 🌌 Exploring the Universe of Data & Intelligence
 **Engineering Student @ Egypt | Machine Learning & Deep Learning Engineer**
