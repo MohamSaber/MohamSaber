@@ -36,20 +36,21 @@
 ## 🚀 Projects Gallery
 
 ### 🤖 Machine Learning & Data Science
-* [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) -linear regression
+* [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) - linear regression
 * [Chance of Admit](https://github.com/MohamSaber/myML_own_projects/tree/main/2-chance%20of%20admit%20(RF)) -random forest
-* [Support Victor Machine projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) -svm
+* [Support Victor Machine projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) - svm
   
 
 ### 👁️ Computer Vision (CV)
 
-*[Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) -YOLO
-* [GridCam algorithm](https://github.com/MohamSaber/myDL_own_projects/tree/main/GridCam) 
-* [Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) - some project on cnn without pretrained models .
+*[Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) - YOLO
+*[GridCam algorithm](https://github.com/MohamSaber/myDL_own_projects/tree/main/GridCam) - Gridcam algorithm
+*[Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) - some project on cnn without pretrained models .
+*[Chest X-ray](https://github.com/MohamSaber/myDL_own_projects/blob/main/chestxray-tl.ipynb) - chex xray cv 
   
 
 ### 📝 Natural Language Processing (NLP)
-* INPROGRESS
+* INPROGRESS 🚨⏳ 
 
 ---
 
