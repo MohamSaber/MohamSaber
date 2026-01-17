@@ -44,21 +44,9 @@
 
 ---
 
-<h2>📊 Activity Status</h2>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MoSaber&theme=tokyonight&hide_border=true" width="100%" />
-
+<br/>
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoSaber&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MoSaber&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/MohamSaber/DEPI_Studying/blob/main/Gemini_Generated_Image_7clep07clep07cle.png" />
-</p>
+![Never Give Up](https://github.com/MohamSaber/DEPI_Studying/blob/main/Gemini_Generated_Image_7clep07clep07cle.png)
 
 </div>
