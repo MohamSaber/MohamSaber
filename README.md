@@ -1,8 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00b4d8&height=250&section=header&text=MOHAMED%20SABER&fontSize=70&bold=true&fontAlignY=40&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
+  <img src="https://github.com/MohamSaber/MohamSaber/blob/main/mohamed%20Saber%20.png" width="100%" />
+</div> 
 
 ### 🌌 Exploring the Universe of Data & Intelligence
 **Engineering Student @ Egypt | Machine Learning & Deep Learning Engineer**
@@ -56,6 +56,6 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/MohamSaber/DEPI_Studying/main/Gemini_Generated_Image_7clep07clep07cle.png" width="100%" />
+<img src="https://github.com/MohamSaber/MohamSaber/blob/main/Screenshot%202026-01-17%20193332.png" width="100%" />
 
 </div>
