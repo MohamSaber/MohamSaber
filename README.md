@@ -58,7 +58,7 @@
 ---
 
 <p align="center">
-  <img src="https://lh3.googleusercontent.com/gg-dl/ABS2GSnUVjoc4Y98GV8S72JI3abW4yRTXdXOQJGoMb385bAOKY4EP1EmrPLRqqDAScpbjSbjl6wuhKnZiJzNYB196H7b23JCY2DJvBTlhWFvnrWAKkA_UXU7pbYJvqV5o3M_4RbchvXS2CuF0sBHjrkdp3qoECn5zdvSkFc_AQA_nEcANxoWPA=s1024-rj" />
+  <img src="https://drive.google.com/file/d/1f8UwrMKZljsCWNffBOqmGoUjfAxNuR7v/view?usp=drive_link" />
 </p>
 
 </div>
