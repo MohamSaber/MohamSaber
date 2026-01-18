@@ -48,6 +48,8 @@
 * [Vanilla CNN](https://github.com/MohamSaber/myDL_own_projects/tree/main/Vanilla_Python_Prcarical) — Custom CNN architectures.
 * [Chest X-ray Analysis](https://github.com/MohamSaber/myDL_own_projects/blob/main/chestxray-tl.ipynb) — Transfer Learning for medical imaging.
 * [NTI Training Portfolio](https://github.com/MohamSaber/CV_NTI_120hrs) — Extensive 120-hour Computer Vision specialization.
+* [AI found lost things by YOLO](https://github.com/MohamSaber/CLIP-YOLO-Lost-Item-Retrieval) - NTI graduation Project
+  
 
 ### 📝 Natural Language Processing (NLP)
 * 🚨 IN PROGRESS — Working on Transformer-based models.
