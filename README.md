@@ -40,6 +40,7 @@
 * [Stock Market Prediction](https://github.com/MohamSaber/myML_own_projects/tree/main/1-stock) — Linear Regression analysis.
 * [Chance of Admit](https://github.com/MohamSaber/myML_own_projects/tree/main/2-chance%20of%20admit%20(RF)) — Random Forest model.
 * [Support Vector Machine Projects](https://github.com/MohamSaber/myML_own_projects/tree/main/3-SVM) — Collection of SVM implementations.
+* [lightcgn recommendation](https://github.com/MohamSaber/LightGCN-Flask-Recommender) -DEPI project 
 
 ### 👁️ Computer Vision (CV)
 * [Sleepy Driver Detection](https://github.com/MohamSaber/myDL_own_projects/tree/main/sleepyDetection_ByYOLO) — Real-time detection using YOLO.
